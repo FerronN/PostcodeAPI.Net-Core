@@ -13,11 +13,11 @@ To contribute to the specification of this API, join the guys over at their repo
 Any contributions are welcome in the form of pull-requests.
 
 ## Installation
-[![NuGet](https://img.shields.io/nuget/v/PostcodeAPI.Net.svg)](https://www.nuget.org/packages/postcodeapi.net/) [![NuGet](https://img.shields.io/nuget/dt/PostcodeAPI.Net.svg)](https://www.nuget.org/packages/postcodeapi.net/)
+[![NuGet](https://img.shields.io/nuget/v/PostcodeAPI.Net.svg)](https://www.nuget.org/packages/PostcodeAPI.Net-Core/) [![NuGet](https://img.shields.io/nuget/dt/PostcodeAPI.Net.svg)](https://www.nuget.org/packages/PostcodeAPI.Net-Core/)
 
-The package can be installed via NuGet: <https://www.nuget.org/packages/postcodeapi.net/> or using the package manager console:
+The package can be installed via NuGet: <https://www.nuget.org/packages/PostcodeAPI.Net-Core/> or using the package manager console:
 
-` PM> Install-Package postcodeapi.net `
+` PM> Install-Package PostcodeAPI.Net-Core `
 
 ## Consuming the API using this library
 Consumption is very easy after you have obtained an access key from the [PostcodeAPI website](http://www.postcodeapi.nu).
